@@ -22,4 +22,4 @@ if(five > 0):
 if(one > 0):
 	s += "1, "+ str(one) +"; "
 
-print(s.rstrip('; '))
+print(s.rstrip('; '))  #刪掉最後的;號
